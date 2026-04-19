@@ -194,9 +194,8 @@ __pycache__/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sahil Sagar Gupta**
 Chandigarh University
-B.Tech — Computer Science Engineering
 
 ---
 
